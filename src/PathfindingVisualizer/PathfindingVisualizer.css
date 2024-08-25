@@ -1,0 +1,17 @@
+.grid {
+  -webkit-user-select: none; 
+  -ms-user-select: none; 
+  user-select: none; 
+  margin: -10px 0 0;
+  margin-left: 10px;
+}
+
+.mar {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.backg {
+  background-color: #17191f;
+}
